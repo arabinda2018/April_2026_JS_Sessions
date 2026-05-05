@@ -76,10 +76,10 @@ console.log(c);
 
 //var  --old js way of decalring the varaibles.
 
-// var lastname ="arabinda";
-// var toolname ="playwright";
-// var toolname="selenium";
-// console.log(toolname);
+var lastname ="arabinda";
+var toolname ="playwright";
+var toolname="selenium";
+console.log(toolname);
 
 
 
@@ -90,14 +90,27 @@ console.log(c);
 const title ="Loginpage";
 console.log(title);
 
-//const redeclaration no
+//const:
+//redeclaration no
 //reassignment no
 
 //let
 //redeclaration  :no
 //reassignment : Yes
 
+let l =5;
+let l =9;
+console.log(l);
 
-//var not a ggod practice
+// let l =25;
+// l=92;
+// console.log(l);
+
+
+//var is not a good practice
 //redeclartion :yes
 //reassignment :yes
+
+var l =35;
+var l=39;
+console.log(l);
