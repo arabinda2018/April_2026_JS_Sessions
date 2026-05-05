@@ -97,6 +97,7 @@ console.log(title);
 //redeclaration  :no
 //reassignment : Yes
 
+
 //var not a ggod practice
 //redeclartion :yes
 //reassignment :yes
